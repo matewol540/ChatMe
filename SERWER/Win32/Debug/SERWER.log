@@ -1,0 +1,10 @@
+﻿  Generate moc_predefs.h
+  Moc'ing mainwindow.h...
+  Moc'ing serwer.h...
+  Uic'ing mainwindow.ui...
+  main.cpp
+  mainwindow.cpp
+  serwer.cpp
+  moc_mainwindow.cpp
+  moc_serwer.cpp
+  SERWER.vcxproj -> C:\Users\wolsk\Documents\ChatMe\ChatMe\ChatME\SERWER\debug\SERWER.exe
