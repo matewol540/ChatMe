@@ -23,6 +23,6 @@ To unban user user need to choose him from list and then click proper button on 
 After stopping server all users will be disconnected from server.
 ![StartServer](https://github.com/matewol540/ChatMe/blob/master/gifs/serverStop.gif?raw=true)
 
-##Authors
+## Authors
 [Konrad Wasiak](https://github.com/KonradWasiak)
 [Mateusz Wolski](https://github.com/matewol540)
